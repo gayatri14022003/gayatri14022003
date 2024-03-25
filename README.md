@@ -1,4 +1,4 @@
-
+![logo](https://github.com/gayatri14022003/gayatri14022003/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 
 
 
