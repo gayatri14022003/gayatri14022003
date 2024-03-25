@@ -1,3 +1,7 @@
+
+
+
+
 <h1 align="center">Hi 👋, I'm Gayatri Pawar</h1>
 <h3 align="center">A passionate Data Scientist and Data Analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
