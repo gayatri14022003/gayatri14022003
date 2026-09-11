@@ -2,18 +2,18 @@
 
 <img src="https://your-image-url-here.png" width="150" alt="profile banner" />
 
-# Hey there! I'm Your Name 👋
+# Hey there! I'm Gayatri 👋
 
-**Full-Stack Developer (React & Python/Django)** | Class of 2026
+**Data Scientist and Python Developer
 
 </div>
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
-[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@gmail.com)
-[![Resume](https://img.shields.io/badge/RESUME-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://link-to-your-resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gayatri1402)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayatripawar1402@gmail.com)
+[![Resume](https://img.shields.io/badge/RESUME-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)]()
 
 </div>
 
@@ -46,22 +46,5 @@ Currently, I'm focusing my energy on building **ProjectOne** (short description)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-### 📌 Pinned Projects
 
-- **[Project-One](https://github.com/yourusername/project-one)** — one-line description of what it does.
-- **[Project-Two](https://github.com/yourusername/project-two)** — one-line description of what it does.
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="48%" />
-
-</div>
-
----
-
-<div align="center">
-<i>Branch out. Merge greatness.</i>
-</div>
