@@ -1,4 +1,4 @@
-<style>
+<html><head><style>
   body {
     margin: 0;
     min-height: 100vh;
@@ -47,7 +47,7 @@
     50%  { background-position: 100% 50%; }
     100% { background-position: 0% 50%; }
   }
-</style>
+</style></head>
 <body>
 <div align="center">
   <img src="name tag.png" width="100%" />
@@ -115,3 +115,4 @@ Learn → Build → Experiment → Improve → Repeat. 🚀
 ![Power BI](https://img.shields.io/badge/PowerBI-8B0000?style=for-the-badge&logo=powerbi&logoColor=white)
 
 </body>
+</html>
