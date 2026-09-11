@@ -1,32 +1,91 @@
-<div style="width:100%;">  
-  <img src="https://i.ibb.co/0y8P1695/20260813-184629.jpg"  
-       alt="20260813-184629"  
-       style="width:100%; height:auto; display:block;">  
-</div>  
-<br>  
-<table>  
-  <tr>  
-    <td align="center" valign="middle">  
-      <a href="https://updrop.in"><img src="https://img.shields.io/badge/Updrop.in-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>  
-      &nbsp;  
-      <a href="https://www.linkedin.com/in/karthick-aidev/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=white"></a>  
-      &nbsp;  
-      <a href="mailto:karthick.aidev@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>  
-      &nbsp;  
-      <a href="https://drive.google.com/file/d/1W8HDDCPTHcm6hw8zbzDeKoxIxoKsz_VN/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSA5aC00VjNIOXY2SDVsNyA3IDctN3pNNSAxOHYyaDE0di0ySDV6Ii8+PC9zdmc+&logoColor=white"></a>  
-    </td>  
-  </tr>  
-  <tr>  
-    <td valign="middle">  
-      <h3>Hey there! I’m Karthick 👋</h3>  
-    </td>  
-  </tr>  
-  <tr>  
-    <td valign="middle">  
-      <br>  
-      <b>Full-Stack Developer (React & Python/Django)</b> | Class of 2026<br><br>  
-      I am based in Trivandrum and deeply passionate about building end-to-end web applications. I love bridging the gap between robust, scalable backend architectures and highly interactive, minimalist user interfaces.<br><br>  
-      Currently, I'm focusing my energy on building <b>FileGhost</b> (a privacy-centric file-sharing platform) and <b>Updrop</b> (automation tools). My daily technical playground revolves around <b>React, Python, Django, and Tailwind CSS</b>. Whether it's designing secure RESTful APIs or crafting seamless frontend experiences, I enjoy turning complex problems into elegant web solutions.<br><br>  
-    </td>  
-  </tr>  
-</table>  
+<div style="width:100%;">
+  <img src="" alt="Gayatri Pawar" style="width:100%; height:auto; display:block;">
+</div>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" valign="middle">
+
+```
+  <a href="YOUR_GITHUB_URL">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  &nbsp;
+
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  &nbsp;
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  &nbsp;
+
+  <a href="YOUR_RESUME_URL">
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white">
+  </a>
+
+</td>
+```
+
+  </tr>
+
+  <tr>
+    <td valign="middle">
+      <h3>Hey there! I’m Gayatri Pawar 👋</h3>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="middle">
+      <br>
+
+```
+  <b>Data Science | AI/ML | Python Developer</b> | M.Sc. Computer Applications
+
+  <br><br>
+
+  I am a Computer Science professional passionate about Data Science,
+  Artificial Intelligence and Machine Learning. I enjoy transforming
+  real-world problems into practical, data-driven solutions and building
+  applications that combine intelligent models with useful user experiences.
+
+  <br><br>
+
+  Currently, I am working as an <b>Assistant Professor in Data Science</b>,
+  where I teach and work with concepts related to Python, Machine Learning,
+  Artificial Intelligence, Data Science and Web Technologies. Alongside
+  teaching, I am actively transitioning my career toward the IT industry
+  and building practical projects in Data Science, AI/ML and Python.
+
+  <br><br>
+
+  My technical playground revolves around <b>Python, SQL, Machine Learning,
+  Data Analysis, Pandas, NumPy, Scikit-learn, TensorFlow, Power BI and
+  Streamlit</b>. I particularly enjoy exploring how AI and machine learning
+  can be applied to real-world problems.
+
+  <br><br>
+
+  I have worked on projects involving <b>Resume Classification, Customer
+  Churn Prediction, Oil Price Prediction, Recommendation Systems,
+  Student Satisfaction Analysis</b> and AI-based applications.
+
+  <br><br>
+
+  🚀 <b>Currently exploring:</b> Data Science • Machine Learning • AI •
+  Generative AI • Python Development • Data Analytics
+
+  <br><br>
+
+  🎯 <b>Career Goal:</b> To build a strong career in the IT industry by
+  contributing to real-world Data Science, AI/ML and Python-based projects.
+
+</td>
+```
+
+  </tr>
+</table>
