@@ -1,5 +1,5 @@
 <div style="width:100%;">
-  <img src="" alt="Gayatri Pawar" style="width:100%; height:auto; display:block;">
+  <img src="Assets" alt="Gayatri Pawar" style="width:100%; height:auto; display:block;">
 </div>
 
 <br>
