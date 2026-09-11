@@ -5,9 +5,6 @@
 # Hey there! I'm Gayatri 👋
 
 
-
-</div>
-
 <table width="100%">
 <tr>
 <td align="center" width="25%">
@@ -32,7 +29,7 @@
 </td>
 </tr>
 </table>
-
+</div>
 ---
 
 💻 Computer Science Professional | Data Science & AI Enthusiast | Python Developer
