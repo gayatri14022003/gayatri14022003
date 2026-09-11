@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://drive.google.com/file/d/1hoHwHJkX1IpibSmWEEO8BFUyI5ga3gOj/view?usp=drive_link" width="100%" />
+  <img src="name tag.png" width="100%" />
 
 
 # Hey there! I'm Gayatri 👋
