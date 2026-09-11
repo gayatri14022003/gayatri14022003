@@ -1,31 +1,57 @@
 <div align="center">
+  <img src="https://drive.google.com/file/d/1hoHwHJkX1IpibSmWEEO8BFUyI5ga3gOj/view?usp=drive_link" width="100%" />
 
-<img src="https://your-image-url-here.png" width="150" alt="profile banner" />
 
 # Hey there! I'm Gayatri 👋
 
-**Data Scientist and Python Developer
+
 
 </div>
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gayatri1402)
-[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayatripawar1402@gmail.com)
-[![Resume](https://img.shields.io/badge/RESUME-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)]()
-
-</div>
+<table width="100%">
+<tr>
+<td align="center" width="25%">
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</td>
+<td align="center" width="25%">
+<a href="www.linkedin.com/in/gayatri1402">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</td>
+<td align="center" width="25%">
+<a href="mailto:gayatripawar1402@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://drive.google.com/file/d/1z8tUtd1ZpbnIyT4zWQNXGs1AHd-_LKFw/view?usp=drive_link">
+<img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=googledrive&logoColor=white" />
+</a>
+</td>
+</tr>
+</table>
 
 ---
 
-I am based in **Your City** and deeply passionate about building end-to-end web applications. I love bridging the gap between robust, scalable backend architectures and highly interactive, minimalist user interfaces.
+💻 Computer Science Professional | Data Science & AI Enthusiast | Python Developer
 
-Currently, I'm focusing my energy on building **ProjectOne** (short description) and **ProjectTwo** (short description). My daily technical playground revolves around **React, Python, Django, and Tailwind CSS**. Whether it's designing secure RESTful APIs or crafting seamless frontend experiences, I enjoy turning complex problems into elegant web solutions.
+I’m passionate about transforming data, ideas, and curiosity into practical technology solutions. With an M.Sc. in Computer Applications and experience in technical teaching and Data Science, I enjoy exploring how Python, Machine Learning, AI, and Data Analytics can solve real-world problems.
 
+🚀 I believe the best way to learn technology is to build, experiment, and keep improving. This GitHub is a collection of my projects, experiments, learning journey, and ideas as I grow toward a career in the IT and Data Science industry.
+
+🔍 What I Love Working On
+🐍 Python & Data Analytics
+🤖 Machine Learning & AI
+📊 Data Visualization & Insights
+🧠 Real-world ML Projects
+🌐 Python-based Applications
+💡 Exploring Emerging Technologies
+
+Learn → Build → Experiment → Improve → Repeat. 🚀
 ---
 
-### 🛠️ Tech Stack
 
 ### 🛠️ Tech Stack
 
