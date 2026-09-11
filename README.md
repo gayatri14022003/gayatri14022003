@@ -61,16 +61,35 @@ With an **M.Sc. in Computer Applications** and experience in technical teaching 
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF0000)
-![NumPy](https://img.shields.io/badge/NumPy-8B0000?style=for-the-badge&logo=numpy&logoColor=FFFFFF)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=FF0000)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-8B0000?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF0000)
-![PyTorch](https://img.shields.io/badge/PyTorch-8B0000?style=for-the-badge&logo=pytorch&logoColor=FFFFFF)
-![Keras](https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=FF0000)
-![SQL](https://img.shields.io/badge/SQL-8B0000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
-![Power BI](https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=powerbi&logoColor=FF0000)
+### 🛠️ Tech Stack
 
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF0000)
+![SQL](https://img.shields.io/badge/SQL-8B0000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
+![GCP](https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=FF0000)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-8B0000?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=FF0000)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-8B0000?style=for-the-badge&logo=tableau&logoColor=FFFFFF)
+![Excel](https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=FF0000)
+![NLP](https://img.shields.io/badge/NLP-8B0000?style=for-the-badge&logo=spacy&logoColor=FFFFFF)
+
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=FF0000)
+![NumPy](https://img.shields.io/badge/NumPy-8B0000?style=for-the-badge&logo=numpy&logoColor=FFFFFF)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=FF0000)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-8B0000?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF)
+![Keras](https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=FF0000)
+![PyTorch](https://img.shields.io/badge/PyTorch-8B0000?style=for-the-badge&logo=pytorch&logoColor=FFFFFF)
+
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FF0000)
+![C++](https://img.shields.io/badge/C%2B%2B-8B0000?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FF0000)
+![HTML5](https://img.shields.io/badge/HTML5-8B0000?style=for-the-badge&logo=html5&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FF0000)
+![JavaScript](https://img.shields.io/badge/JavaScript-8B0000?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
+
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge&logo=openai&logoColor=FF0000)
+![Git](https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF0000)
+![Jupyter](https://img.shields.io/badge/Jupyter-8B0000?style=for-the-badge&logo=jupyter&logoColor=FFFFFF)
 ---
 
 <div align="center">
