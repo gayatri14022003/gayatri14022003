@@ -1,31 +1,32 @@
-# Hi there, I'm Gayatri Pawar! 👋
-
-## 🚀 About Me
-I'm a passionate **Machine Learning & Data Science Enthusiast** with a strong foundation in Computer Science. With a curiosity-driven mindset, I love exploring AI-driven solutions, optimizing algorithms, and working on innovative projects. My goal is to leverage data to create impactful solutions that drive efficiency and intelligence in various domains. Let's collaborate and build something amazing together! 🚀
-
-## 🛠️ Tech Stack
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=ml&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data%20Science-1E90FF?style=for-the-badge&logo=datascience&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=GayatriPawar&theme=radical)
-
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gayatri-pawar)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GayatriPawar)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayatripawar1402@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
-
-⭐ **Feel free to check out my repositories and projects!** 🚀
-
-## ✨ Animation Effect
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F70000&random=false&width=435&lines=Welcome+to+My+Profile!;Let's+Connect+and+Collaborate!" alt="Typing Animation" />
-</p>
+<div style="width:100%;">  
+  <img src="https://i.ibb.co/0y8P1695/20260813-184629.jpg"  
+       alt="20260813-184629"  
+       style="width:100%; height:auto; display:block;">  
+</div>  
+<br>  
+<table>  
+  <tr>  
+    <td align="center" valign="middle">  
+      <a href="https://updrop.in"><img src="https://img.shields.io/badge/Updrop.in-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>  
+      &nbsp;  
+      <a href="https://www.linkedin.com/in/karthick-aidev/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=white"></a>  
+      &nbsp;  
+      <a href="mailto:karthick.aidev@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>  
+      &nbsp;  
+      <a href="https://drive.google.com/file/d/1W8HDDCPTHcm6hw8zbzDeKoxIxoKsz_VN/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSA5aC00VjNIOXY2SDVsNyA3IDctN3pNNSAxOHYyaDE0di0ySDV6Ii8+PC9zdmc+&logoColor=white"></a>  
+    </td>  
+  </tr>  
+  <tr>  
+    <td valign="middle">  
+      <h3>Hey there! I’m Karthick 👋</h3>  
+    </td>  
+  </tr>  
+  <tr>  
+    <td valign="middle">  
+      <br>  
+      <b>Full-Stack Developer (React & Python/Django)</b> | Class of 2026<br><br>  
+      I am based in Trivandrum and deeply passionate about building end-to-end web applications. I love bridging the gap between robust, scalable backend architectures and highly interactive, minimalist user interfaces.<br><br>  
+      Currently, I'm focusing my energy on building <b>FileGhost</b> (a privacy-centric file-sharing platform) and <b>Updrop</b> (automation tools). My daily technical playground revolves around <b>React, Python, Django, and Tailwind CSS</b>. Whether it's designing secure RESTful APIs or crafting seamless frontend experiences, I enjoy turning complex problems into elegant web solutions.<br><br>  
+    </td>  
+  </tr>  
+</table>  
