@@ -1,91 +1,67 @@
-<div style="width:100%;">
-  <img src="Assets" alt="Gayatri Pawar" style="width:100%; height:auto; display:block;">
+<div align="center">
+
+<img src="https://your-image-url-here.png" width="150" alt="profile banner" />
+
+# Hey there! I'm Your Name 👋
+
+**Full-Stack Developer (React & Python/Django)** | Class of 2026
+
 </div>
 
-<br>
+<div align="center">
 
-<table>
-  <tr>
-    <td align="center" valign="middle">
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@gmail.com)
+[![Resume](https://img.shields.io/badge/RESUME-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://link-to-your-resume.pdf)
 
-```
-  <a href="YOUR_GITHUB_URL">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  &nbsp;
+</div>
 
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  &nbsp;
+---
 
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  &nbsp;
+I am based in **Your City** and deeply passionate about building end-to-end web applications. I love bridging the gap between robust, scalable backend architectures and highly interactive, minimalist user interfaces.
 
-  <a href="YOUR_RESUME_URL">
-    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white">
-  </a>
+Currently, I'm focusing my energy on building **ProjectOne** (short description) and **ProjectTwo** (short description). My daily technical playground revolves around **React, Python, Django, and Tailwind CSS**. Whether it's designing secure RESTful APIs or crafting seamless frontend experiences, I enjoy turning complex problems into elegant web solutions.
 
-</td>
-```
+---
 
-  </tr>
+### 🛠️ Tech Stack
 
-  <tr>
-    <td valign="middle">
-      <h3>Hey there! I’m Gayatri Pawar 👋</h3>
-    </td>
-  </tr>
+### 🛠️ Tech Stack
 
-  <tr>
-    <td valign="middle">
-      <br>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+### 📌 Pinned Projects
 
-```
-  <b>Data Science | AI/ML | Python Developer</b> | M.Sc. Computer Applications
+- **[Project-One](https://github.com/yourusername/project-one)** — one-line description of what it does.
+- **[Project-Two](https://github.com/yourusername/project-two)** — one-line description of what it does.
 
-  <br><br>
+### 📊 GitHub Stats
 
-  I am a Computer Science professional passionate about Data Science,
-  Artificial Intelligence and Machine Learning. I enjoy transforming
-  real-world problems into practical, data-driven solutions and building
-  applications that combine intelligent models with useful user experiences.
+<div align="center">
 
-  <br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="48%" />
 
-  Currently, I am working as an <b>Assistant Professor in Data Science</b>,
-  where I teach and work with concepts related to Python, Machine Learning,
-  Artificial Intelligence, Data Science and Web Technologies. Alongside
-  teaching, I am actively transitioning my career toward the IT industry
-  and building practical projects in Data Science, AI/ML and Python.
+</div>
 
-  <br><br>
+---
 
-  My technical playground revolves around <b>Python, SQL, Machine Learning,
-  Data Analysis, Pandas, NumPy, Scikit-learn, TensorFlow, Power BI and
-  Streamlit</b>. I particularly enjoy exploring how AI and machine learning
-  can be applied to real-world problems.
-
-  <br><br>
-
-  I have worked on projects involving <b>Resume Classification, Customer
-  Churn Prediction, Oil Price Prediction, Recommendation Systems,
-  Student Satisfaction Analysis</b> and AI-based applications.
-
-  <br><br>
-
-  🚀 <b>Currently exploring:</b> Data Science • Machine Learning • AI •
-  Generative AI • Python Development • Data Analytics
-
-  <br><br>
-
-  🎯 <b>Career Goal:</b> To build a strong career in the IT industry by
-  contributing to real-world Data Science, AI/ML and Python-based projects.
-
-</td>
-```
-
-  </tr>
-</table>
+<div align="center">
+<i>Branch out. Merge greatness.</i>
+</div>
